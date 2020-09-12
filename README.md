@@ -33,7 +33,7 @@ $ ./bin/kafka-console-producer.sh --broker-list localhost:9092 --topic test
 > send 2nd message
 ```
 
-### Creating Consumers
+### Creating Consumer
 ```
 $ ./bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic test --from-beginning
 ```
