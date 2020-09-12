@@ -40,7 +40,7 @@ $ ./bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic test
 
 ### Kafka vs RabbitMQ
 
-![comparison](./pix/exchanges-bidings-routing-keys.png)
+![comparison](./pix/comparison.png)
 
 ## References
 
