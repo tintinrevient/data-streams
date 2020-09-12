@@ -37,3 +37,7 @@ $ ./bin/kafka-console-producer.sh --broker-list localhost:9092 --topic test
 ```
 $ ./bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic test --from-beginning
 ```
+
+## References
+
+* https://www.cloudamqp.com/blog/2019-12-12-when-to-use-rabbitmq-or-apache-kafka.html
